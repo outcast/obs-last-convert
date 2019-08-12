@@ -45,4 +45,4 @@ file an issue on this Github Page.
 
 # Contact
 You can contact me on [Discord](http://discord.gg/outcast) or
-[Twitter](http://twitter.com/outcast)
+[Twitter](http://twitter.com/OutcastMakerLab)
